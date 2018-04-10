@@ -9,6 +9,6 @@ def fizzbuzz(int)
     puts "FizzBuzz"
   end
   if int !% 3 && 5
-    puts "nil"
+    puts nil
   end
 end
